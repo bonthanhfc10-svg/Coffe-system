@@ -1,0 +1,3 @@
+# MIME types not present in Apache's default mime.types
+AddType image/avif .avif
+AddType image/jpeg .jfif
